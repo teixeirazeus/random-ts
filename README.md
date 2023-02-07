@@ -1,4 +1,4 @@
-# RandomTS
+![banner](https://raw.githubusercontent.com/teixeirazeus/random-ts/master/readme_assets/banner.png)
 
 A simple Typescript library for generating random numbers and shuffling arrays.
 
