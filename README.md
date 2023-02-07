@@ -1,11 +1,11 @@
-![banner](https://raw.githubusercontent.com/teixeirazeus/random-ts/master/readme_assets/banner.png)
+![banner](https://raw.githubusercontent.com/teixeirazeus/the-random-ts/master/readme_assets/banner.png)
 
 A simple Typescript library for generating random numbers and shuffling arrays.
 
 ## Installation
 
 ```bash
-npm install random-ts
+npm install the-random-ts
 ```
 
 ## Usage

@@ -1,15 +1,19 @@
 {
-  "name": "random-ts",
-  "version": "0.0.0",
+  "name": "the-random-ts",
+  "version": "1.0.0",
   "description": "Random TS is a comprehensive and easy-to-use Typescript library that provides high-quality random number generation functions.",
-  "keywords": [],
+  "keywords": ["typescript", "random"],
   "main": "dist/random-ts.umd.js",
   "module": "dist/random-ts.es5.js",
   "typings": "dist/types/random-ts.d.ts",
   "files": [
     "dist"
   ],
-  "author": "teixeirazeus <teixeira.zeus@gmail.com>",
+  "author": "Thiago S. Teixeira <teixeira.zeus@gmail.com> (https://thiagoteixeira.dev/)",
+  "bugs": {
+    "url": "https://github.com/teixeirazeus/the-random-ts/issues"
+  },
+  "homepage": "https://github.com/teixeirazeus/the-random-ts#readme",
   "repository": {
     "type": "git",
     "url": ""
@@ -118,6 +122,7 @@
     "typescript": "^3.0.3"
   },
   "dependencies": {
+    "core-js": "2.6.12",
     "remark": "14.0.2"
   }
 }
