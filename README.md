@@ -13,7 +13,7 @@ npm install the-random-ts
 You can use the functions provided by the library in your Typescript project by importing them like this:
 
 ```typescript
-import { randomInt, randomArray, shuffleArray } from 'randomts';
+import { randomInt, randomArray, shuffleArray } from 'the-random-ts';
 ```
 
 ### Main Functions
