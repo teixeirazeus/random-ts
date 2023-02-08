@@ -1,4 +1,4 @@
-import * as RandomTs from '../src/random-ts'
+import * as RandomTs from '../src/the-random-ts'
 
 describe('Rand int', () => {
   it('randomInt', () => {
