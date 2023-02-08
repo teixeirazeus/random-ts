@@ -1,11 +1,12 @@
 {
   "name": "the-random-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Random TS is a comprehensive and easy-to-use Typescript library that provides high-quality random number generation functions.",
   "keywords": ["typescript", "random"],
-  "main": "dist/random-ts.umd.js",
-  "module": "dist/random-ts.es5.js",
-  "typings": "dist/types/random-ts.d.ts",
+  "main": "dist/the-random-ts.umd.js",
+  "module": "dist/the-random-ts.es5.js",
+  "typings": "dist/types/the-random-ts.d.ts",
+  "types": "dist/the-random-ts.d.ts",
   "files": [
     "dist"
   ],
